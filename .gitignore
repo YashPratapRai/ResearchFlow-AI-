@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Uploaded PDFs
+data/uploads/
+
+# ChromaDB
+chroma_db/
+.chroma/
+
+# Test / Debug files
+test_*.py
+debug_*.py
+check_*.py
+
+# Logs
+*.log
+
+# Streamlit Secrets
+.streamlit/secrets.toml

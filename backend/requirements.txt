@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langgraph
+chromadb
+
+sentence-transformers
+pymupdf
+
+python-dotenv
+langchain-text-splitters
+langchain-groq
+fastapi
+uvicorn[standard]

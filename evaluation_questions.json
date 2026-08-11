@@ -1,0 +1,11 @@
+[
+    {
+        "question": "What is the main contribution of the Transformer architecture?"
+    },
+    {
+        "question": "Why did the authors introduce the Transformer instead of recurrent and convolutional architectures?"
+    },
+    {
+        "question": "What is multi-head attention and why is it used?"
+    }
+]

@@ -20,6 +20,9 @@ chroma_db/
 test_*.py
 debug_*.py
 check_*.py
+run_evaluation.py
+evaluation_questions.json
+evaluation_results.json
 
 # Logs
 *.log

@@ -5,7 +5,7 @@ langchain-chroma
 langgraph
 chromadb
 
-sentence-transformers
+sentence-transformers==3.4.1
 pymupdf
 
 python-dotenv

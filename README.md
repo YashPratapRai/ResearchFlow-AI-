@@ -9,6 +9,21 @@ Instead of directly asking an LLM to generate an answer, the system first plans 
 The goal is **not to build a new LLM or a new retrieval algorithm**. The primary engineering contribution is the orchestration of established AI components into a controlled and stateful research workflow.
 
 ---
+🚀 Live Demo
+Frontend: ResearchFlow AI – Streamlit App
+
+Backend API: ResearchFlow AI – Render Backend
+
+📌 Why ResearchFlow AI?
+Normal LLM-based research can have problems such as:
+
+Hallucinated information
+Unsupported claims
+Inconsistent research
+No clear research process
+Difficulty maintaining previous research
+No systematic quality-control step
+
 
 # 🧠 System Architecture
 

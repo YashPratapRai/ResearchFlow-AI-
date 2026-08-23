@@ -10,9 +10,10 @@ The goal is **not to build a new LLM or a new retrieval algorithm**. The primary
 
 ---
 🚀 Live Demo
-Frontend: ResearchFlow AI – Streamlit App
+Frontend: https://researchflowai1.streamlit.app/
 
-Backend API: ResearchFlow AI – Render Backend
+Backend API: https://researchflow-ai-dxh1.onrender.com
+
 
 📌 Why ResearchFlow AI?
 Normal LLM-based research can have problems such as:

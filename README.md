@@ -292,6 +292,7 @@ research_assistant/
 ├── app_client.py
 ├── requirements.txt
 └── README.md
+
 🔄 Why This Architecture?
 
 A conventional RAG system often follows:
@@ -336,6 +337,7 @@ Critic-driven revision loop
 FastAPI backend
 Streamlit interface
 Deployable backend architecture
+
 🎯 Project Objective
 
 ResearchFlow AI demonstrates how established LLM, RAG, vector database, and agent technologies can be combined into a controlled research system.
